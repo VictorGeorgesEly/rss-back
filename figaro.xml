@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://www.lefigaro.fr/rss/figaro_actualites.xml" rel="self" type="application/rss+xml"/>
+        <category>HP www</category>
+        <title>Le Figaro - Actualité en direct et informations en continu</title>
+        <description>A la Une : Retrouvez toute l&#039;actualité en France, à l&#039;international, l&#039;actualité
+            économique et politique avec Le Figaro
+        </description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Sun, 24 Mar 2019 14:54:52 +0100</lastBuildDate>
+        <pubDate>Sun, 24 Mar 2019 14:54:52 +0100</pubDate>
+        <docs>http://www.lefigaro.fr/rss</docs>
+        <ttl>1</ttl>
+        <image>
+            <title>Le Figaro - Actualité en direct et informations en continu</title>
+            <url>http://a.f1g.fr/assets-img/i/f/m150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>A la Une : Retrouvez toute l&#039;actualité en France, à l&#039;international, l&#039;actualité
+                économique et politique avec Le Figaro
+            </description>
+        </image>
+
+        <item>
+            <guid>
+                http://www.lefigaro.fr/politique/le-scan/2019/03/24/25001-20190324ARTFIG00031-municipales-2020-un-sondage-place-anne-hidalgo-devant-lrem-a-paris.php
+            </guid>
+            <title>Municipales 2020: un sondage place Anne Hidalgo devant LREM à Paris</title>
+            <link>
+                http://www.lefigaro.fr/politique/le-scan/2019/03/24/25001-20190324ARTFIG00031-municipales-2020-un-sondage-place-anne-hidalgo-devant-lrem-a-paris.php
+            </link>
+            <description>LE SCAN POLITIQUE - Selon une enquête Ifop-Fiducial publiée ce dimanche dans Le JDD, la maire
+                socialiste obtiendrait 24% des voix au premier tour. Benjamin Griveaux est le mieux placé des
+                macronistes, avec 22%.
+            </description>
+            <category>Le Scan</category>
+            <pubDate>Sun, 24 Mar 2019 13:07:37 +0100</pubDate>
+            <author>Arthur Berdah</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/vox/societe/2019/03/21/31003-20190321ARTFIG00226-jerome-fourquet-marcel-gauchet-peut-on-encore-vivre-ensemble-en-france.php
+            </guid>
+            <title>Marcel Gauchet-Jérôme Fourquet: peut-on encore vivre ensemble en France?</title>
+            <link>
+                http://www.lefigaro.fr/vox/societe/2019/03/21/31003-20190321ARTFIG00226-jerome-fourquet-marcel-gauchet-peut-on-encore-vivre-ensemble-en-france.php
+            </link>
+            <description>FIGAROVOX/GRAND ENTRETIEN - Depuis la Révolution française, la France n&#039;avait jamais été
+                aussi morcelée. C&#039;est le terrible constat que dresse Jérôme Fourquet dans L&#039;Archipel français.
+                En se lançant dans ce monumental travail d&#039;enquête qui fera date, le politologue avait en tête les
+                thèses de l&#039;historien et sociologue Marcel Gauchet sur la sortie de la religion et la «fracture
+                sociale». Pour Le Figaro Magazine, les deux penseurs se rencontrent pour la première fois.
+            </description>
+            <category>Vox Societe</category>
+            <pubDate>Fri, 22 Mar 2019 18:29:48 +0100</pubDate>
+            <author>Alexandre Devecchio, Paul Sugy</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/retraite/2019/03/24/05004-20190324ARTFIG00024-le-francais-opposes-a-un-report-de-l-age-legal-de-la-retraite.php
+            </guid>
+            <title>Les Français opposés à un report de l&#039;âge légal de la retraite</title>
+            <link>
+                http://www.lefigaro.fr/retraite/2019/03/24/05004-20190324ARTFIG00024-le-francais-opposes-a-un-report-de-l-age-legal-de-la-retraite.php
+            </link>
+            <description>SONDAGE EXCLUSIF - Même s&#039;ils sont inquiets face au risque de dépendance, ils sont plus de
+                60% à rejeter l&#039;idée de cotiser davantage de trimestres ou de quitter la vie active plus tard pour
+                permettre son financement, selon un sondage Harris Interractive pour Le Figaro.
+            </description>
+            <category>Retraite</category>
+            <pubDate>Sun, 24 Mar 2019 12:17:17 +0100</pubDate>
+            <author>Anne-Hélène Pommier</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/politique/le-scan/2019/03/24/25001-20190324ARTFIG00039-raphael-glucksmann-l-europe-c-est-la-cause-de-ma-vie.php
+            </guid>
+            <title>Raphaël Glucksmann: «L&#039;Europe, c&#039;est la cause de ma vie»</title>
+            <link>
+                http://www.lefigaro.fr/politique/le-scan/2019/03/24/25001-20190324ARTFIG00039-raphael-glucksmann-l-europe-c-est-la-cause-de-ma-vie.php
+            </link>
+            <description>LE SCAN POLITIQUE - Invité du Grand Jury RTL-LCI-Le Figaro, la tête de liste Place publique-PS
+                a rappelé son engagement en faveur d&#039;une Europe sociale et écologiste.
+            </description>
+            <category>Le Scan</category>
+            <pubDate>Sun, 24 Mar 2019 14:37:50 +0100</pubDate>
+            <author>Sophie de Ravinel</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/actualite-france/2019/03/24/01016-20190324ARTFIG00013-gilets-jaunes-la-famille-d-une-manifestante-blessee-a-nice-veut-porter-plainte.php
+            </guid>
+            <title>«Gilets jaunes»: enquête ouverte après la blessure d&#039;une manifestante à Nice</title>
+            <link>
+                http://www.lefigaro.fr/actualite-france/2019/03/24/01016-20190324ARTFIG00013-gilets-jaunes-la-famille-d-une-manifestante-blessee-a-nice-veut-porter-plainte.php
+            </link>
+            <description>EN IMAGES - La famille de la septuagénaire blessée samedi 23 mars après une charge policière va
+                porter plainte.
+            </description>
+            <category>France</category>
+            <pubDate>Sun, 24 Mar 2019 12:22:27 +0100</pubDate>
+            <author>Aude Bariéty</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/international/2019/03/24/01003-20190324ARTFIG00004-le-president-chinois-xi-jinping-attendu-dimanche-a-nice.php
+            </guid>
+            <title>Le président chinois Xi Jinping rencontrera Emmanuel Macron ce dimanche à Nice</title>
+            <link>
+                http://www.lefigaro.fr/international/2019/03/24/01003-20190324ARTFIG00004-le-president-chinois-xi-jinping-attendu-dimanche-a-nice.php
+            </link>
+            <description>Le président chinois termine sa mini tournée européenne par la France à partir de ce dimanche.
+                Paris espère signer des contrats, mais se montrera ferme par rapport au projet chinois des «nouvelles
+                routes de la soie».
+            </description>
+            <category>International</category>
+            <pubDate>Sun, 24 Mar 2019 14:52:17 +0100</pubDate>
+            <author>Cyrille Pluyette</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/vox/economie/2019/03/22/31007-20190322ARTFIG00155-xi-jinping-la-chine-et-la-france-ensemble-vers-un-developpement-commun.php
+            </guid>
+            <title>Xi Jinping: «La Chine et la France, ensemble vers un développement commun»</title>
+            <link>
+                http://www.lefigaro.fr/vox/economie/2019/03/22/31007-20190322ARTFIG00155-xi-jinping-la-chine-et-la-france-ensemble-vers-un-developpement-commun.php
+            </link>
+            <description>TRIBUNE - À l&#039;occasion de sa deuxième visite d&#039;État en France du 24 au 26 mars, le
+                président chinois présente les enjeux de la coopération entre nos deux pays.
+            </description>
+            <category>Vox Economie</category>
+            <pubDate>Fri, 22 Mar 2019 18:58:18 +0100</pubDate>
+            <author>Xi Jinping</author>
+        </item>
+        <item>
+            <guid>
+                http://video.lefigaro.fr/figaro/video/norvege-les-images-impressionnantes-d-un-paquebot-a-la-derive/6017424485001/
+            </guid>
+            <title>Norvège : les images impressionnantes d&#039;un paquebot à la dérive</title>
+            <link>
+                http://video.lefigaro.fr/figaro/video/norvege-les-images-impressionnantes-d-un-paquebot-a-la-derive/6017424485001/
+            </link>
+            <description>Une passagère du «Viking Sky», paquebot à la dérive depuis hier au large de la Norvège, a filmé
+                les images impressionnantes de l&#039;intérieur du bateau en train de tanguer. Ce matin, l&#039;évacuation
+                par hélicoptère de ses 1373 occupants était encore en cours.
+            </description>
+            <category>677769436001</category>
+            <pubDate>Sun, 24 Mar 2019 12:40:34 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/sciences/2019/03/22/01008-20190322ARTFIG00002-memoire-comment-la-muscler-et-l-ameliorer.php
+            </guid>
+            <title>Mémoire: comment la muscler et l&#039;améliorer</title>
+            <link>
+                http://www.lefigaro.fr/sciences/2019/03/22/01008-20190322ARTFIG00002-memoire-comment-la-muscler-et-l-ameliorer.php
+            </link>
+            <description>NOS CONSEILS - Mieux connaître le fonctionnement de sa mémoire permet de la rendre très
+                efficace et de la faire travailler, en connaissant ses atouts et en cernant ses faiblesses. Quel que
+                soit son âge.
+            </description>
+            <category>Sciences &amp; Environnement</category>
+            <pubDate>Fri, 22 Mar 2019 20:12:59 +0100</pubDate>
+            <author>Christophe Doré</author>
+        </item>
+        <item>
+            <guid>http://www.lefigaro.fr/flash-actu/la-reunion-un-homme-tue-ses-trois-fils-ages-de-2-a-5-ans-20190324
+            </guid>
+            <title>La Réunion: un homme tue ses trois fils âgés de 2 à 5 ans</title>
+            <link>http://www.lefigaro.fr/flash-actu/la-reunion-un-homme-tue-ses-trois-fils-ages-de-2-a-5-ans-20190324
+            </link>
+            <description></description>
+            <category>Flash Actu</category>
+            <pubDate>Sun, 24 Mar 2019 14:21:51 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/flash-actu/deces-d-un-enfant-a-luneville-le-conducteur-etait-au-telephone-20190324
+            </guid>
+            <title>Décès d&#039;un enfant à Lunéville: le conducteur était au téléphone</title>
+            <link>
+                http://www.lefigaro.fr/flash-actu/deces-d-un-enfant-a-luneville-le-conducteur-etait-au-telephone-20190324
+            </link>
+            <description></description>
+            <category>Flash Actu</category>
+            <pubDate>Sun, 24 Mar 2019 13:39:32 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/international/2019/03/24/01003-20190324ARTFIG00025-israel-salue-la-mort-de-l-espion-qui-avait-capture-le-nazi-adolf-eichman.php
+            </guid>
+            <title>Israël salue la mort de l&#039;espion qui avait capturé le nazi Adolf Eichman</title>
+            <link>
+                http://www.lefigaro.fr/international/2019/03/24/01003-20190324ARTFIG00025-israel-salue-la-mort-de-l-espion-qui-avait-capture-le-nazi-adolf-eichman.php
+            </link>
+            <description>L&#039;ancien espion israélien Rafi Eitan, chef du commando ayant enlevé en Argentine en 1960
+                un des principaux responsables de la «solution finale», est mort samedi à l&#039;âge de 92 ans.
+            </description>
+            <category>International</category>
+            <pubDate>Sun, 24 Mar 2019 12:19:58 +0100</pubDate>
+            <author>Thierry Oberlé</author>
+        </item>
+        <item>
+            <guid>
+                http://video.lefigaro.fr/figaro/video/gilets-jaunes-acte-xix-encore-mobilises-pour-montrer-qu-on-est-toujours-la/6017260486001/
+            </guid>
+            <title>«Gilets jaunes» Acte XIX : «Encore mobilisés pour montrer qu&#039;on est toujours là»</title>
+            <link>
+                http://video.lefigaro.fr/figaro/video/gilets-jaunes-acte-xix-encore-mobilises-pour-montrer-qu-on-est-toujours-la/6017260486001/
+            </link>
+            <description>Interviewé par Figaro Live, un «gilet jaune» donne les raisons pour lesquelles il lui fallait
+                absolument manifester le 23 mars, malgré le dispositif policier important mis en place.
+            </description>
+            <category>677769436001</category>
+            <pubDate>Sat, 23 Mar 2019 16:43:30 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://video.lefigaro.fr/figaro/video/brexit-manifestation-geante-a-londres-pour-un-nouveau-referendum/6017306311001/
+            </guid>
+            <title>Brexit : manifestation géante à Londres pour un nouveau référendum</title>
+            <link>
+                http://video.lefigaro.fr/figaro/video/brexit-manifestation-geante-a-londres-pour-un-nouveau-referendum/6017306311001/
+            </link>
+            <description>Selon les organisateurs, ils étaient plus d&#039;un million à défiler ce samedi 23 mars pour
+                réclamer un nouveau référendum sur le Brexit, en pleine incertitude sur la possibilité que la Première
+                ministre Theresa May présente à nouveau son accord de divorce aux députés.
+            </description>
+            <category>677769436001</category>
+            <pubDate>Sat, 23 Mar 2019 18:14:26 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://video.lefigaro.fr/figaro/video/gilets-jaunes-acte-xix-l-impressionnant-dispositif-policier-mis-en-place-a-paris/6017288565001/
+            </guid>
+            <title>«Gilets jaunes» Acte XIX : l&#039;impressionnant dispositif policier mis en place à Paris</title>
+            <link>
+                http://video.lefigaro.fr/figaro/video/gilets-jaunes-acte-xix-l-impressionnant-dispositif-policier-mis-en-place-a-paris/6017288565001/
+            </link>
+            <description>Pour éviter de nouvelles violences, comme la semaine passée, plus de 6.000 forces de l&#039;ordre
+                étaient mobilisées le 23 mars à Paris pour bloquer l&#039;accès des Champs-Élysées aux manifestants
+                «gilets jaunes».
+            </description>
+            <category>677769436001</category>
+            <pubDate>Sat, 23 Mar 2019 16:42:24 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>http://video.lefigaro.fr/figaro/video/syrie-les-premieres-images-de-baghouz-liberee/6017251969001/
+            </guid>
+            <title>Syrie : Les premières images de Baghouz libérée</title>
+            <link>http://video.lefigaro.fr/figaro/video/syrie-les-premieres-images-de-baghouz-liberee/6017251969001/
+            </link>
+            <description>Ce 23 mars 2019, le drapeau ne flotte plus au dessus de Baghouz. Le dernier bastion des
+                djihadistes de l&#039;Etat Islamique a été repris par les forces de la coalition, signant la fin du
+                territoire du califat autoproclamé.
+            </description>
+            <category>677769436001</category>
+            <pubDate>Sat, 23 Mar 2019 13:46:12 +0100</pubDate>
+            <author></author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/placement/2019/03/22/05006-20190322ARTFIG00015-ces-acheteurs-qui-s-offrent-des-proprietes-a-plusieurs-dizaines-de-millions-d-euros.php
+            </guid>
+            <title>Ces acheteurs qui s&#039;offrent des propriétés à plusieurs dizaines de millions d&#039;euros</title>
+            <link>
+                http://www.lefigaro.fr/placement/2019/03/22/05006-20190322ARTFIG00015-ces-acheteurs-qui-s-offrent-des-proprietes-a-plusieurs-dizaines-de-millions-d-euros.php
+            </link>
+            <description>Investissement plaisir, placement prestige, le marché de l&#039;immobilier de luxe s&#039;est
+                réveillé dans le sud de la France. Une vente d&#039;une cinquantaine de millions d&#039;euros vient d&#039;être
+                conclue.
+            </description>
+            <category>Placement</category>
+            <pubDate>Fri, 22 Mar 2019 07:15:06 +0100</pubDate>
+            <author>Carole Papazian</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/secteur/high-tech/2019/03/24/32001-20190324ARTFIG00033-xi-jinping-fait-de-monaco-une-vitrine-pour-huawei.php
+            </guid>
+            <title>Xi Jinping fait de Monaco une vitrine pour Huawei</title>
+            <link>
+                http://www.lefigaro.fr/secteur/high-tech/2019/03/24/32001-20190324ARTFIG00033-xi-jinping-fait-de-monaco-une-vitrine-pour-huawei.php
+            </link>
+            <description>Un réseau 5G de Huawei, à Monaco est un coin enfoncé par les autorités chinoises dans le
+                paysage des télécoms européens. En France, les quatre opérateurs ont écarté tout équipementier chinois
+                des cœurs de réseaux et de l&#039;île de France.
+            </description>
+            <category>Tech &amp; Web</category>
+            <pubDate>Sun, 24 Mar 2019 13:12:21 +0100</pubDate>
+            <author>Enguérand Renault</author>
+        </item>
+        <item>
+            <guid>
+                http://www.lefigaro.fr/politique/2019/03/22/01002-20190322ARTFIG00008-dissolution-municipales-et-referendum-les-indiscretions-du-figaro-magazine.php
+            </guid>
+            <title>Dissolution, municipales et référendum: les indiscrétions du Figaro Magazine</title>
+            <link>
+                http://www.lefigaro.fr/politique/2019/03/22/01002-20190322ARTFIG00008-dissolution-municipales-et-referendum-les-indiscretions-du-figaro-magazine.php
+            </link>
+            <description>Marine Le Pen plaide pour un retour aux urnes, Alain Carignon repart au combat et Matignon se
+                tient prêt à organiser un référendum... Petites phrases et coulisses de la semaine politique, par Carl
+                Meeus.
+            </description>
+            <category>Politique</category>
+            <pubDate>Fri, 22 Mar 2019 06:00:33 +0100</pubDate>
+            <author>Carl Meeus</author>
+        </item>
+        <item>
+            <guid>http://www.lefigaro.fr/flash-actu/a-budapest-sarkozy-prend-la-defense-d-orban-20190323</guid>
+            <title>À Budapest, Sarkozy prend la défense d&#039;Orban</title>
+            <link>http://www.lefigaro.fr/flash-actu/a-budapest-sarkozy-prend-la-defense-d-orban-20190323</link>
+            <description>L&#039;ancien président français a souligné samedi depuis Budapest son amitié avec le premier
+                ministre hongrois, «capable de gagner les élections trois fois de suite, dans une époque aussi instable
+                et difficile».
+            </description>
+            <category>Flash Actu</category>
+            <pubDate>Sat, 23 Mar 2019 23:10:58 +0100</pubDate>
+            <author></author>
+        </item>
+    </channel>
+</rss>

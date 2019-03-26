@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://${MYSQL_DB:localhost}/rss_db?createDatabaseIfNotExist=true&useSSL=false&useUnicode=yes&characterEncoding=UTF-8
+    username: root
+    password: MuseU2&Coldplay
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 8080
+
+#logging:
+#  level:
+#    com.iseplive.api: INFO
