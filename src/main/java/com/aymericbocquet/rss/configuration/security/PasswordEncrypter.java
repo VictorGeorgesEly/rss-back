@@ -14,6 +14,7 @@ public class PasswordEncrypter {
 
     private static final Logger LOG = LoggerFactory.getLogger(PasswordEncrypter.class);
 
+
     public static void encryptPassword(User... user) {
         for (User u : user) {
             encryptPassword(u);
