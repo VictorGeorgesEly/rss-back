@@ -6,6 +6,7 @@ import com.aymericbocquet.rss.data.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.UUID;
 
 @Service
@@ -28,6 +29,10 @@ public class UserService {
         userRepository.save(user);
 
         return user;
+    }
+
+    public List<User> getAllUser() {
+        return userRepository.findAll();
     }
 
     //public User createUser(String )

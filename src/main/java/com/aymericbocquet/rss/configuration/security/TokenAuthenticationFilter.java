@@ -15,7 +15,7 @@ import java.io.IOException;
 public class TokenAuthenticationFilter extends OncePerRequestFilter {
 
     private final String TOKEN_HEADER = "Authorization";
-    private final String TOKEN_HEADER_PREFIX = "Bearer ";
+    private final String TOKEN_HEADER_PREFIX = "Bearer "; //TODO
 
     @Autowired
     private UserDetailsService userDetailsService;

@@ -10,7 +10,7 @@ public class Rss {
 
     @Id
     @GeneratedValue(strategy= GenerationType.IDENTITY)
-    private Long idRss;
+    private Long id;
     private String path;
     private String name;
 
@@ -19,11 +19,11 @@ public class Rss {
     }
 
     public Long getIdRss() {
-        return idRss;
+        return id;
     }
 
     public void setIdRss(Long idRss) {
-        this.idRss = idRss;
+        this.id = idRss;
     }
 
     public String getPath() {
@@ -45,7 +45,7 @@ public class Rss {
     @Override
     public String toString() {
         return "Rss{" +
-                "idRss=" + idRss +
+                "idRss=" + id +
                 ", path='" + path + '\'' +
                 ", name='" + name + '\'' +
                 '}';

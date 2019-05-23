@@ -16,7 +16,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 
     @Bean
-    public TokenAuthenticationFilter authenticationTokenFilter() throws Exception {
+    public TokenAuthenticationFilter authenticationTokenFilter() {
         return new TokenAuthenticationFilter();
     }
 
@@ -39,6 +39,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 // Allow all requesets on the login endpoint :
                 // use .antMatchers("/**").permitAll() to disable authentication everywhere
                 .antMatchers("/user/login").permitAll()
+                .antMatchers("/user").permitAll()
+                .antMatchers("/rss").permitAll()
                 //.antMatchers("/rss/**").permitAll()
                 // Request authentication on every other request :
                 .anyRequest().authenticated();
